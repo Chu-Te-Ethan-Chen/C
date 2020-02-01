@@ -32,6 +32,8 @@ nodePointer priorityQueue[MAX_QUEUE_SIZE];
 * Push node w back to the priority queue.  
 * Repeat the above pop and push until no node in the queue.  
 
+![](https://github.com/Jordon-Chen/C/blob/master/HuffmanCoding/HuffmanCoding.png?raw=true)
+
 `Description`  
 step1: Record the frequency of each character in the text.txt.  
 step2: Set up a priorityqueue which was inplemented with min heap according to the frequency.  
