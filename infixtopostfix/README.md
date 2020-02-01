@@ -12,6 +12,8 @@ Infix to postfix
 `Hints`:  
 * You may imlement the following functions:postfix, eval, getToken  
 
+![](https://github.com/Jordon-Chen/C/blob/master/infixtopostfix/infixtopostfix.png?raw=true)
+
 `Description`:  
 step1. read infix.txt and put data into infix[]  
 step2. change plus and minus into p and n  
