@@ -14,8 +14,9 @@ Activity-on-Edge (AOE) Networks
 input1  
 ![](https://github.com/Jordon-Chen/C/blob/master/Activity-on-Edge_AOE_Networks/input2.png?raw=true)  
 input2  
-![](https://github.com/Jordon-Chen/C/blob/master/Activity-on-Edge_AOE_Networks/output.png?raw=true)  
 output  
+![](https://github.com/Jordon-Chen/C/blob/master/Activity-on-Edge_AOE_Networks/output.png?raw=true)  
+ 
 
 `Description`  
 step1: set up adjacency list.  
