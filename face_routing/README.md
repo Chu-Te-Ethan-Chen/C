@@ -1,5 +1,5 @@
 Generate a Planar Subgraph  
-Given:
+Given:  
   1.node.txt  
   2.Number of nodes  
   3.Nodes with non-negative coordinates(x, y) (the input graph is connected when we add links if dist(u,v) ≤ 1)  
