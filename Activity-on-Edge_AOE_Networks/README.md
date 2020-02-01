@@ -11,8 +11,11 @@ Activity-on-Edge (AOE) Networks
 * Otherwise,Indicate the infeasibility abd Print “No solution”  
 
 ![](https://github.com/Jordon-Chen/C/blob/master/Activity-on-Edge_AOE_Networks/input1.png?raw=true)  
+input1  
 ![](https://github.com/Jordon-Chen/C/blob/master/Activity-on-Edge_AOE_Networks/input2.png?raw=true)  
+input2  
 ![](https://github.com/Jordon-Chen/C/blob/master/Activity-on-Edge_AOE_Networks/output.png?raw=true)  
+output  
 
 `Description`  
 step1: set up adjacency list.  
