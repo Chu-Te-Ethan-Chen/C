@@ -19,6 +19,6 @@ Generate a Planar Subgraph
 * Add a link between any two nodes u, v as dist(u,v) ≤ 1  
 * Remove some links to generate a planar graph  
 ![](https://github.com/Jordon-Chen/C/blob/master/face_routing/generate%20a%20planar%20subgraph.png?raw=true)
-Before:22 links
-After:11 links
-*red lines are deleted after the algorithm
+Before:22 links  
+After:11 links  
+*Red lines are deleted after the algorithm
