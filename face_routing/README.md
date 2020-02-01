@@ -1,9 +1,11 @@
 Generate a Planar Subgraph  
-Given:  
-  1.Number of nodes  
-  2.Nodes with non-negative coordinates(x, y) (the input graph is connected when we add links if dist(u,v) ≤ 1)  
+Given:
+  1.node.txt  
+  2.Number of nodes  
+  3.Nodes with non-negative coordinates(x, y) (the input graph is connected when we add links if dist(u,v) ≤ 1)  
 Goal:  
-  1.The edges before and after planarization  
+  1.output link.txt  
+  2.The edges before and after planarization  
 Constraints:  
   1.The first node ID should be smaller than the second one for each link  
   2.The links should be sequentially indexed in ascending order of the first node ID  
