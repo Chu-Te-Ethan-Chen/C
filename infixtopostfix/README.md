@@ -13,8 +13,8 @@ Infix to postfix
 * You may imlement the following functions:postfix, eval, getToken  
 
 `Description`:  
-step1.read infix.txt and put data into infix[]  
-step2.change plus and minus into p and n  
-step3.infix to postfix  
-step4.calculate postfix  
-step5.write the anwser into postfix.txt  
+step1. read infix.txt and put data into infix[]  
+step2. change plus and minus into p and n  
+step3. infix to postfix  
+step4. calculate postfix  
+step5. write the anwser into postfix.txt  
