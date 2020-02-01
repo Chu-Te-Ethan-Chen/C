@@ -6,13 +6,13 @@ Huffman Coding
 `Goal`:  
 * output code.txt  
 * Construct a priority queue in which:  
-The keys in nodes are the frequencies  
-The data in nodes are the characters  
-Add all the characters with their frequencies into the priority queue  
+The keys in nodes are the frequencies.  
+The data in nodes are the characters.  
+Add all the characters with their frequencies into the priority queue.  
 
 `Constraints`:  
-* You must implement the project with a priority queue  
-* Tree node should be declared as follows  
+* You must implement the project with a priority queue.  
+* Tree node should be declared as follows.  
 typedef struct node *nodePointer;  
 typedef struct node {  
   char character;  
@@ -22,15 +22,15 @@ typedef struct node {
 };  
 int MAX_QUEUE_SIZE;  
 nodePointer priorityQueue[MAX_QUEUE_SIZE];  
-* You have to create a node with malloc function  
-* Your code must be able to: read the text from a file, and output the code book and encrypted text to a file  
+* You have to create a node with malloc function.  
+* Your code must be able to: read the text from a file, and output the code book and encrypted text to a file.  
 
 `Hints`:  
-* Pop two nodes u and v in order
-* Create a node w  
-* The left child and right child of w are set to u and v, respectively  
-* Push node w back to the priority queue  
-* Repeat the above pop and push until no node in the queue  
+* Pop two nodes u and v in order.  
+* Create a node w.  
+* The left child and right child of w are set to u and v, respectively.  
+* Push node w back to the priority queue.  
+* Repeat the above pop and push until no node in the queue.  
 
 `Description`  
 step1: Record the frequency of each character in the text.txt.  
