@@ -21,4 +21,4 @@ Generate a Planar Subgraph
 ![](https://github.com/Jordon-Chen/C/blob/master/face_routing/generate%20a%20planar%20subgraph.png?raw=true)
 Before:22 links  
 After:11 links  
-*Red lines are deleted after the algorithm
+*Red lines are deleted after using the algorithm
