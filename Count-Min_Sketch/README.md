@@ -14,6 +14,8 @@ Count-Min_Sketch
 `Hints`:  
 * You may want to use libraries Guava or FastUtil in Java for convenience and better performance  
 
+![](https://github.com/Jordon-Chen/C/blob/master/Count-Min_Sketch/Count-Min_Sketch.png?raw=true)
+
 ![](https://highlyscalable.files.wordpress.com/2012/04/count-min-sketch.png?w=805)
 from:https://www.google.com/search?q=count-min+sketch&tbm=isch&tbas=0&source=lnt&sa=X&ved=0ahUKEwjYhYKK5bHnAhWZL6YKHZkHDOUQpwUIJA&biw=1920&bih=937&dpr=1#imgrc=c91hp_VPaKSOkM:
 ![](https://hkorte.github.io/slides/cmsketch/img/experiments-mem.png)
